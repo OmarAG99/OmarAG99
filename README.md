@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Omar Abdul Ghan, I'm a Software Engineering Student.
+- 👋 Hi, I’m Omar Abdul Ghani, I'm a Software Engineering Student.
 - 👀 I’m interested in ASP.NET Core development.
 - 🌱 I’m currently learning ASP.NET Core Web API.
 - 📫 How to reach me:
