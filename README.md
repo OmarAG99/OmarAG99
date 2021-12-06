@@ -1,0 +1,8 @@
+- 👋 Hi, I’m Omar Abdul Ghan, I'm a Software Engineering Student.
+- 👀 I’m interested in ASP.NET Core development.
+- 🌱 I’m currently learning ASP.NET Core Web API.
+- 📫 How to reach me:
+    - Github    --> OmarAG99
+    - E-mail    --> omarabdulghani99@gmail.com
+    - Twitter   --> @OmarAG_99
+    - LinkedIN  --> http://www.linkedin.com/in/omar-abdulghani
